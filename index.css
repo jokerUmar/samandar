@@ -199,9 +199,7 @@ padding: 20px 0;
 .chef1,.chef2,.chef3{
     width: 28%;
     overflow: hidden;
-    border-radius: 10px;
     height: 450px;
-    border:1px solid #333;
 }
 /*
 .chb{
@@ -213,24 +211,28 @@ padding: 20px 0;
 
 .chef1
 {
-background-image: url(./images/team-image1.jpg);
-background-size: cover;
+background-image: url(./images/jaluzi-1.jpg);
+background-size: contain;
+background-repeat: no-repeat;
 }
 
 .chef2
 {
-    background-image: url(./images/team-image2.jpg);
-    background-size: cover;
+    background-image: url(./images/jaluzi-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .chef3
 {
-    background-image: url(./images/team-image3.jpg);
-    background-size: cover;
+    background-image: url(./images/jaluzi-12.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
 }
 .chb{
     width: 100%;
-    height: 450px;
+    height: 350px;
     transition: 0.7s;
 }
 
